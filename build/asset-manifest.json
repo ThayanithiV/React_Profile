@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab936bc1.css",
+    "main.js": "/static/js/main.e64f0299.js",
+    "static/media/me4.png": "/static/media/me4.3387d4ad665a70656367.png",
+    "static/media/Me-removebg-preview.png": "/static/media/Me-removebg-preview.3a4eaeae2d6d3f6530e5.png",
+    "static/media/Thaya2023. (1).pdf": "/static/media/Thaya2023.458919571e70f8095c1e (1).458919571e70f8095c1e.pdf",
+    "index.html": "/index.html",
+    "main.ab936bc1.css.map": "/static/css/main.ab936bc1.css.map",
+    "main.e64f0299.js.map": "/static/js/main.e64f0299.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab936bc1.css",
+    "static/js/main.e64f0299.js"
+  ]
+}

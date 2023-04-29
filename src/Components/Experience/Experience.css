@@ -1,0 +1,38 @@
+.container_experience{
+    text-align: center;
+    justify-content: center;
+}
+.head{
+    margin-bottom: 2rem;
+}
+.btn_1{
+    margin-top: 1rem;
+}
+.Sub_head{
+    color: var(--color-light);
+}
+.content li{
+    color: var(--color-light);
+    text-align: justify;
+}
+.content h3{
+    color: var(--color-black);
+}
+.content{
+    margin-top: 2rem;
+}
+
+/*-------------------------------medium----------------------------*/
+@media screen and (max-width: 1024px){
+    #Experience{
+        margin-top: -32rem;
+    }
+}
+
+
+/*-------------------------------small----------------------------*/
+@media screen and (max-width: 600px){
+    #Experience{
+        margin-top: 20rem;
+    }
+}
